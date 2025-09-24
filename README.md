@@ -31,3 +31,10 @@ OR CLICK THIS
 Click the link below to view the interactive dashboard to gain better insights of the analysis.
 
 - <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/crime%20stats.pbix">View Interactive Dashboard</a>
+
+##INSIGHTS
+- Property-related offences, especially Theft/Stealing, dominate overall crime, while other categories are least reported.
+- The South West contributes the largest share of offences, driven mostly by Lagos State.
+- Lagos records the highest offences nationally, with Yobe leading in the North East.
+- Crime patterns vary across regions, with certain categories more common in specific zones.
+- Within each region, a few states account for most offences, making crime highly concentrated.
