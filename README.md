@@ -13,6 +13,13 @@ I created an interactive Power BI dashboard using crime statistics across Nigeri
 - Which states lead in reported offences within each region?
 - Which offence subcategories account for the highest number of cases across the country?
 
+##PROCESS
+- This was a cleaned data so just did a doble check for consistency in categories, subcategories, and counts.
+- Imported the data into Power BI and created relationships between the two tables.
+- Built visualizations to show offences by region, category, subcategory, and state.
+- Added slicers for interactivity and arranged the dashboard to highlight key insights.
+
+
 ##DASHBOARD
 
 ![Crime stats dashboard](https://github.com/user-attachments/assets/1d95af1d-2508-4245-aed6-f66275f4ddf5)
@@ -21,6 +28,6 @@ OR CLICK THIS
 
 - <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/Crime%20stats%20dashboard.JPG">Dashboard Preview</a>
 
-This shows the interative dashboard,click to gain better insights of the analysis.
+Click the link below to view the interactive dashboard to gain better insights of the analysis.
 
 - <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/crime%20stats.pbix">View Interactive Dashboard</a>
