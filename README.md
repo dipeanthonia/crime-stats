@@ -2,7 +2,8 @@
 I created an interactive Power BI dashboard using crime statistics across Nigerian states. It shows the percentage distribution of offences by region and offence category, and allows users to focus on specific areas or categories for deeper insights.This process included joining 2 tables in my Power BI, i didnt do much preprocessing or cleaning because it was already a cleaned data.
 
 ##Dataset used
--<a href = "https://github.com/dipeanthonia/crime-stats/blob/main/2017%20Crime%20Stats%20.xlsx">Crime Stats Data</a>
+
+- <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/2017%20Crime%20Stats%20.xlsx">Crime Stats Data</a>
 
 ##QUESTIONS
 -Which offence category records the highest number of cases, and which has the lowest?
