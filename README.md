@@ -15,4 +15,10 @@ I created an interactive Power BI dashboard using crime statistics across Nigeri
 
 - <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/Crime%20stats%20dashboard.JPG">Dashboard Preview</a>
 
+##DASHBOARD
+![Crime stats dashboard](https://github.com/user-attachments/assets/1d95af1d-2508-4245-aed6-f66275f4ddf5)
+
+
+
+
 - <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/crime%20stats.pbix">View Interactive Dashboard</a>
